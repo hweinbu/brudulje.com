@@ -1,0 +1,27 @@
+{
+  "name": "hjemmeside",
+  "version": "1.0.0",
+  "description": "hjemmeside",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hweinbu/hjemmeside.git"
+  },
+  "keywords": [
+    "hjemme",
+    "side"
+  ],
+  "author": "Helene Winge Einbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hweinbu/hjemmeside/issues"
+  },
+  "homepage": "https://github.com/hweinbu/hjemmeside"
+}
