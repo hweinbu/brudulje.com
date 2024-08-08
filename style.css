@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    font-size: 21px;
+    margin: 0px 20px;
+}
+
+h1.rosa {
+    color: magenta;
+    background-color: pink;
+    margin-top: 0;
+}
+
+p {
+    color: chartreuse;
+}
+
+p:nth-of-type(1) {
+    color: cornflowerblue;
+}
+
+span.experiment {
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+    background-color: rgb(190, 130, 220);
+}
+
+
+div.lame {
+   font-family: serif;
+    
+}
+
+div.rotert {
+    rotate: 10deg;
+    background-color: rgb(243, 243, 255);
+    border-radius: 1em;
+    border: thick dashed blue;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: 0 auto;
+    top: 50px;
+}
+
+div.rotert * {
+    rotate: -10deg;
+    text-align: center;
+
+}
+
+div.rotert p {
+    /* border: 1em solid red; */
+    color: rgb(0, 238, 255);
+    text-shadow: 2px 2px rgb(255, 81, 0), -2px -2px rgb(255, 208, 0) ;
+}
