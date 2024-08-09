@@ -32,6 +32,7 @@ div.lame {
 }
 
 div.rotert {
+    overflow-y: scroll;
     rotate: 10deg;
     background-color: rgb(243, 243, 255);
     border-radius: 1em;
@@ -41,10 +42,11 @@ div.rotert {
     position: relative;
     margin: 0 auto;
     top: 50px;
+    padding: 1em 1em;
 }
 
 div.rotert * {
-    rotate: -10deg;
+    /* rotate: -10deg; */
     text-align: center;
 
 }
