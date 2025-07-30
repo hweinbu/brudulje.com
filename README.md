@@ -1,11 +1,1 @@
-# hjemmeside
-
-## pannekakerøre
-
-### kakedeig
-
-smaker godt.
-
-- eple
-- pære
-- banan
+This is the future home of Helenes page.
