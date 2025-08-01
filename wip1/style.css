@@ -138,7 +138,7 @@ h3 {
 }
 
 .project-card {
-    background: white;
+    background: rgb(255, 182, 246);
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
@@ -151,7 +151,7 @@ h3 {
 }
 
 .project-card h3 {
-    color: #007bff;
+    color: #0011ff;
     margin-bottom: 1rem;
 }
 
@@ -169,8 +169,8 @@ h3 {
 .btn {
     display: inline-block;
     padding: 0.8rem 1.5rem;
-    background: #007bff;
-    color: white;
+    background: #0011ff;
+    color: #bbff00;
     text-decoration: none;
     border-radius: 5px;
     transition: background 0.3s ease;
@@ -178,18 +178,18 @@ h3 {
 }
 
 .btn:hover {
-    background: #0056b3;
+    background: #ff6e3e;
 }
 
 .btn-secondary {
     background: transparent;
-    color: #007bff;
-    border: 2px solid #007bff;
+    color: #ff48bc;
+    border: 2px solid #664c41;
 }
 
 .btn-secondary:hover {
-    background: #007bff;
-    color: white;
+    background: #ff48bc;
+    color: #ffbdef;
 }
 
 /* Contact Section */
